@@ -114,6 +114,7 @@ class SignupActivity : AppCompatActivity() {
                 passwordEditLayout,
                 signupButton
             )
+            startDelay = 500
         }.start()
     }
 

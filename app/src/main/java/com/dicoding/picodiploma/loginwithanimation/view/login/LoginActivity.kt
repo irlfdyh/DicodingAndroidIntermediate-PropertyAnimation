@@ -124,6 +124,7 @@ class LoginActivity : AppCompatActivity() {
                 passwordEditTextLayout,
                 loginButton
             )
+            startDelay = 500
         }.start()
     }
 

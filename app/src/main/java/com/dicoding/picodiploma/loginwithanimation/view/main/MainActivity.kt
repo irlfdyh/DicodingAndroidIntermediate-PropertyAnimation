@@ -89,6 +89,7 @@ class MainActivity : AppCompatActivity() {
                 messageTextView,
                 logoutButton
             )
+            startDelay = 500
         }.start()
     }
 
